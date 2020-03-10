@@ -1,3 +1,4 @@
+<?php
 function merge ($one, $two) {
     $i = $j = 0;
     $res = [];
